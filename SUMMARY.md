@@ -1,10 +1,4 @@
-# Summary
+# Table of contents
 
-## Kaizen - Offensive PenTips
-
-* [Welcome to Kaizen Pentips](README.md)
-
-## Networking, Protocols and Network pentest
-
-* [Basics](networking/basics.md)
-* [DNS](networking/dns.md)
+* [IMPORTANT URL](README.md)
+* [Page 1](page-1.md)
